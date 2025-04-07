@@ -1,0 +1,17 @@
+#path: /data/home/thebs/mydataset/yolo_10  # dataset root dir
+path: /data/home/thebs/mydataset/AI-TOD/dataset # dataset root dir
+train: train
+val: val
+test: test
+
+# Classes
+nc: 8
+names:
+  0: AI
+  1: BR
+  2: ST
+  3: SH
+  4: SP
+  5: VE
+  6: PE
+  7: WM
